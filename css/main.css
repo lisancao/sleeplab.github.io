@@ -2727,14 +2727,15 @@
 		color: #ffffff;
 		font-weight: 900;
 		cursor: default;
-		height: 3.25em;
+		height: 4.25em;
 		left: 0;
-		line-height: 3.25em;
+		line-height: 4.25em;
 		position: absolute;
 		text-align: right;
 		top: 4em;
 		width: 100%;
 		z-index: 10001;
+		font-size: 1em;
 	}
 
 		#header .inner {
