@@ -2735,7 +2735,7 @@
 		top: 4em;
 		width: 100%;
 		z-index: 10001;
-		font-size: 1.5em;
+		font-size: 1.3em;
 	}
 
 		#header .inner {
@@ -2746,7 +2746,7 @@
 		#header .logo {
 			color: #ffffff;
 			display: inline-block;
-			font-weight: 400;
+			font-weight: 600;
 			height: inherit;
 			left: 0;
 			line-height: inherit;
