@@ -2725,7 +2725,7 @@
 
 	#header {
 		color: #ffffff;
-		font-weight: 1000;
+		font-weight: 700;
 		cursor: default;
 		height: 3.25em;
 		left: 0;
@@ -2754,7 +2754,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1em;
+			font-size: 0.6em;
 		}
 
 		#header a {
