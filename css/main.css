@@ -2732,10 +2732,10 @@
 		line-height: 3.25em;
 		position: absolute;
 		text-align: right;
-		top: 4em;
-		width: 80%;
+		top: 2em;
+		width: 100%;
 		z-index: 10001;
-		font-size: 1.3em;
+		font-size: 1em;
 	}
 
 		#header .inner {
@@ -2746,7 +2746,7 @@
 		#header .logo {
 			color: #ffffff;
 			display: inline-block;
-			font-weight: 600;
+			font-weight: 500;
 			height: inherit;
 			left: 0;
 			line-height: inherit;
